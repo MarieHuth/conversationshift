@@ -29,4 +29,4 @@ This POC demonstrates my approach to AI enablement in talent development: move b
 Built with React and the Anthropic Claude API.
 
 ## Try it live
-[Live Demo →](your-vercel-url-here)
+[Live Demo →] conversationshift.vercel.app
